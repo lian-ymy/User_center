@@ -4,8 +4,13 @@
 # 技术选型：
 
 后端：
-· Java编程语言
+
+· Java编程语言 
+
 · Spring + SpringMVC + SpringBoot框架
+
 · Mybatis + Mybatis-plus数据访问框架
+
 · MYSQL数据库
+
 · jUnit单元测试库
